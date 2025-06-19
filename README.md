@@ -1,9 +1,3 @@
-# Blog-Socioeconom-a
-Presentación de proyecto 
-<!DOCTYPE html><html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Raíces, retos y futuro: Un viaje socioeconómico desde mi comunidad</title>
     <style>
         body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; margin: 0; padding: 0; }
@@ -22,4 +16,37 @@ Presentación de proyecto
     </header><section>
     <h2>BLOQUE 1: Realidades sociales de mi comunidad</h2>
     <ul>
-        <li><strong>Proyecto 1:</strong> Organizador gráfico sobre la migración, sus causas, tendencias y tipos
+        <li><strong>Proyecto 1:</strong> Organizador gráfico sobre la migración, sus causas, tendencias y tipos.</li>
+        <li><strong>Proyecto 2:</strong> Infografía sobre juventud, educación, empleo y salud en mi comunidad.</li>
+        <li><strong>Proyecto 3:</strong> Cartel con propuesta contra violencia de género, inseguridad o narcotráfico.</li>
+        <li><strong>Proyecto 4:</strong> Periódico mural integrando los tres proyectos anteriores.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>BLOQUE 2: Nuestra historia y cultura como base del presente</h2>
+    <ul>
+        <li><strong>Proyecto 1:</strong> Cuadro sinóptico sobre la diversidad cultural, étnica y etaria de la comunidad.</li>
+        <li><strong>Proyecto 2:</strong> Mapa mental sobre culturas prehispánicas y urbanas, con semejanzas y diferencias.</li>
+        <li><strong>Proyecto 3:</strong> Entrevista y crónica histórica sobre la transformación cultural de la comunidad.</li>
+        <li><strong>Proyecto 4:</strong> Documental “Rescatando mis raíces, difundiendo mi cultura” sobre la alfarería local.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>BLOQUE 3: Derechos, futuro y reflexión personal</h2>
+    <ul>
+        <li><strong>Proyecto 1:</strong> Infografía sobre derechos a la salud y educación de niñas, niños y adolescentes.</li>
+        <li><strong>Proyecto 2:</strong> Plan de vida personal como estudiante próximo a egresar.</li>
+        <li><strong>Proyecto 3:</strong> Este blog digital como reflexión y cierre de aprendizajes.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Reflexión final</h2>
+    <p>Gracias por leer hasta aquí. Cada proyecto me permitió comprender que el conocimiento no se queda en los libros, sino que vive en nuestras calles, nuestras familias y nuestra historia. Espero que este espacio te inspire a observar tu entorno con ojos críticos, con empatía y con ganas de mejorar lo que te rodea.</p>
+    <p><strong>Recuerda: entender el presente es la clave para transformar el futuro.</strong></p>
+</section>
+
+</body>
+</html>
